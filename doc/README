@@ -2,6 +2,6 @@ name:    usb2ttlrs
 author:  bartek szurgot
 www:     www.baszerr.eu
 license: revised BSD
-version: 0.0.0
+version: 0.1.0
 
 USB to TTL-level RS-232 transaltor based on ft232 chip.
