@@ -1,2 +1,1 @@
-usb2ttlrs
-=========
+doc/readme.txt
